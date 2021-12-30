@@ -1,0 +1,22 @@
+.transcript-container {
+    background-color: antiquewhite;
+}
+.transcript-container .items-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    border: 1px solid;
+    margin: 10px;
+}
+
+.transcript-container .items-wrapper .item{
+    align-items: flex-end;
+}
+
+.transcript-container .items-wrapper .heading{
+    font-weight: 600;
+}
+
+.transcript-container .items-wrapper .content{
+    font-weight: 400;
+}

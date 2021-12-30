@@ -1,0 +1,10 @@
+.navigation-container {
+    display: flex;
+    justify-content: center;
+}
+
+.navigation-container button {
+    font-size: large;
+    padding: 10px;
+    margin: 10px;
+}
